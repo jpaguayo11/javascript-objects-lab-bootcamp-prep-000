@@ -1,1 +1,1 @@
-var recipes = {Muffins: "Bananas and flour"}
+var recipes = {muffins: "Bananas and flour"}
